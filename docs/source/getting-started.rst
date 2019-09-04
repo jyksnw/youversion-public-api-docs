@@ -10,7 +10,7 @@ Base URL
 
 Unless otherwise noted, all URLs referenced in this documentation have the following base:
 
-    ``https://developers.youversion.com/api/1.0``
+    ``https://developers.youversionapi.com/1.0``
 
 Our APIs are served over HTTPS. Unencrypted HTTP connections are not supported.
 
